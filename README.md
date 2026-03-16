@@ -23,7 +23,6 @@ Funds are securely held on-chain and released after check-out, while NFT transfe
 
 ### ✅ **Step 2: Download the Project**
 
-   👉 https://github.com/Lofty-lnc/welcome-nest
 
    **Screenshot for reference:**  
 ![Project download](screenshot/project-download.png)
